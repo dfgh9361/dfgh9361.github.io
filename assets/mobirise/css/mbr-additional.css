@@ -1,0 +1,200 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#dropdown-menu-2 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2 .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#dropdown-menu-2 .nav .link,
+#dropdown-menu-2 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2 .navbar,
+#dropdown-menu-2 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2 .dropdown-menu a:hover,
+#dropdown-menu-2 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2 A {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header4-3 H1 {
+  color: #c1b3ab;
+}
+#header4-3 P {
+  color: #d1cbc8;
+}
+#msg-box5-4 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-4 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-4 .mbr-article {
+  color: #ffffff;
+}
+#slider-6 P {
+  text-align: right;
+  color: #7c706b;
+}
+#slider-6 H1 {
+  text-align: right;
+  color: #a38f84;
+}
+#content5-9 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-9 .mbr-article {
+  color: #fff;
+}
+
+
+
+#dropdown-menu-e .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-e .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#dropdown-menu-e .nav .link,
+#dropdown-menu-e .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-e .navbar,
+#dropdown-menu-e .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-e .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-e .dropdown-menu a:hover,
+#dropdown-menu-e .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-e .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-e A {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-v H1 {
+  text-align: left;
+  color: #7b9ca6;
+}
+#header1-v P {
+  text-align: right;
+  color: #7b9ca6;
+}
+#header1-v .btn {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+#content4-x P {
+  text-align: center;
+}
+
+
+#dropdown-menu-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-g .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#dropdown-menu-g .nav .link,
+#dropdown-menu-g .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-g .navbar,
+#dropdown-menu-g .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-g .dropdown-menu a:hover,
+#dropdown-menu-g .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-g .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-g A {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+#content5-19 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-19 .mbr-article {
+  color: #fff;
+}
+#slider-18 H1 {
+  text-align: left;
+}
+#slider-18 P {
+  text-align: left;
+}
+#msg-box4-q .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-q .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-q .mbr-article {
+  color: #ffffff;
+}
+#content4-1d .mbr-section__col .mbr-header__text {
+  text-align: left;
+}
+#dropdown-menu-k .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-k .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+}
+#dropdown-menu-k .nav .link,
+#dropdown-menu-k .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-k .navbar,
+#dropdown-menu-k .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-k .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-k .dropdown-menu a:hover,
+#dropdown-menu-k .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-k .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-k A {
+  font-size: 18px;
+  font-family: 'Open Sans', sans-serif;
+}
