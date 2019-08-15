@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "amber's world",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/16pic-2096340-b-128x103.png",
@@ -1686,6 +1686,123 @@
         },
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "Instagrm layout Design",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1y"
+        },
+        {
+          "_params": {
+            "token": "6191179828.727bfe1.e6b3b495981a4be4823ccf641a842926",
+            "showTitle": true,
+            "layoutGridRadio": false,
+            "imagesPerRowGrid": "3",
+            "rows": "3",
+            "showMoreButton": true,
+            "layoutSliderRadio": true,
+            "imagesPerRowSlider": "5",
+            "spacing": "4",
+            "fullWidth": true,
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColorRadio": false,
+            "bgColor": "#fafafa",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2669-2000x1333.jpg",
+            "overlay": true,
+            "overlayColor": "#1a2c5d",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "扩展"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-1x"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "人像創作",
+          "meta": "Model fung yi",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-502-2000x1333.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "茄苳",
+                "contentAlign": "right",
+                "text": "我不是茄苳<br>我只是你路過的人生的一部份。",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.google.com.tw/search?ei=xRU1W4atMIaqoATavbzoCQ&amp;q=%E8%8C%84%E8%8B%B3+&amp;oq=%E8%8C%84%E8%8B%B3+&amp;gs_l=psy-ab.3..0j0i67k1j0l8.1405440.1408699.0.1409169.10.10.0.0.0.0.132.753.9j1.10.0....0...1c.1j4.64.psy-ab..1.6.484...0i7i30k1j0i30k1j0i7i5i30k1.0.1Mxi9bzjt0M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE MOER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.google.com.tw/search?ei=xRU1W4atMIaqoATavbzoCQ&amp;q=%E8%8C%84%E8%8B%B3+&amp;oq=%E8%8C%84%E8%8B%B3+&amp;gs_l=psy-ab.3..0j0i67k1j0l8.1405440.1408699.0.1409169.10.10.0.0.0.0.132.753.9j1.10.0....0...1c.1j4.64.psy-ab..1.6.484...0i7i30k1j0i30k1j0i7i5i30k1.0.1Mxi9bzjt0M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE MOER</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-84-2000x1333.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "迷惘 美",
+                "contentAlign": "center",
+                "text": "我同學兼私人麻豆-李x宜<br>(其實那天我們只是出去玩)",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/dsc-0082c-2000x1251.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 1",
+                "contentAlign": "right",
+                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "主题"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-18",
+          "_styles": {
+            "H1": {
+              "text-align": "left"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
             "fullWidth": true,
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -1766,129 +1883,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-p"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc03437-2000x1153.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "FULL-SCREEN HEADER",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
-          "_tags": [
-            "主题"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1y"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-502-2000x1333.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "茄苳",
-                "contentAlign": "right",
-                "text": "我不是茄苳<br>我只是你路過的人生的一部份。",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.google.com.tw/search?ei=xRU1W4atMIaqoATavbzoCQ&amp;q=%E8%8C%84%E8%8B%B3+&amp;oq=%E8%8C%84%E8%8B%B3+&amp;gs_l=psy-ab.3..0j0i67k1j0l8.1405440.1408699.0.1409169.10.10.0.0.0.0.132.753.9j1.10.0....0...1c.1j4.64.psy-ab..1.6.484...0i7i30k1j0i30k1j0i7i5i30k1.0.1Mxi9bzjt0M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE MOER</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.google.com.tw/search?ei=xRU1W4atMIaqoATavbzoCQ&amp;q=%E8%8C%84%E8%8B%B3+&amp;oq=%E8%8C%84%E8%8B%B3+&amp;gs_l=psy-ab.3..0j0i67k1j0l8.1405440.1408699.0.1409169.10.10.0.0.0.0.132.753.9j1.10.0....0...1c.1j4.64.psy-ab..1.6.484...0i7i30k1j0i30k1j0i7i5i30k1.0.1Mxi9bzjt0M\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SEE MOER</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-84-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "迷惘 美",
-                "contentAlign": "center",
-                "text": "我同學兼私人麻豆-李x宜<br>(其實那天我們只是出去玩)",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/dsc-0082c-2000x1251.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "主题"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-18",
-          "_styles": {
-            "H1": {
-              "text-align": "left"
-            },
-            "P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_params": {
-            "token": "6191179828.727bfe1.e6b3b495981a4be4823ccf641a842926",
-            "showTitle": true,
-            "layoutGridRadio": false,
-            "imagesPerRowGrid": "3",
-            "rows": "3",
-            "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": "4",
-            "fullWidth": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-2669-2000x1333.jpg",
-            "overlay": true,
-            "overlayColor": "#1a2c5d",
-            "overlayOpacity": "0.3"
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "扩展"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-1x"
         },
         {
           "_styles": {
