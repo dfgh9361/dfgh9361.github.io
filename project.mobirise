@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "amber's world",
-    "currentPage": "page4.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -19,7 +19,7 @@
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/16pic-2096340-b-128x103.png",
@@ -485,7 +485,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Communication",
+          "title": "About Amber",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"mailto:dfgh9361@gmail.com\" data-toolbar=\"-mbrBtnMove\">Send a E-mail</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"tel:+886979256912\" data-toolbar=\"-mbrBtnMove\">Cellphone<span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span></a> ",
           "_tags": [
@@ -520,7 +520,7 @@
             "showButtons": false,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -577,8 +577,8 @@
               "size": 0
             }
           },
-          "title2": "Affiliated team",
-          "caption2": "Wilshow樂聲<br>公廣一乙傳播技能展<br><br>youtube: 噢!OWL!<br>OOOOOOOWL團隊<br>攝影感謝:阿勳，阿品，mose，我姊，我的閨密，隱+99",
+          "title2": "Education",
+          "caption2": "華江高中畢業 \n<br>2014.9-2017.6 \n<br>世新大學公共關係暨廣告學系 \n<br>2017.9-",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media3": {
             "image": {
@@ -597,8 +597,8 @@
               "size": 0
             }
           },
-          "title3": "Contact information",
-          "caption3": "dfgh9361@gmail.com\n<br>Line id:79256912\n<br>Instagram :e.cˍleau.0226",
+          "title3": "Skills",
+          "caption3": "dreamweaver \n<br>Photoshop \n<br>premeier \n<br>Illustrator \n<br>\n<br>Another skills: \n<br>•文案能力 \n<br>• 創意策略發想 \n<br>• 活動企劃 \n<br>• 思辨能力<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media4": {
             "image": {
@@ -637,8 +637,8 @@
               "size": 0
             }
           },
-          "title5": "Education",
-          "caption5": "華江高中畢業\n<br>2014.9-2017.6\n<br>世新大學公共關係暨廣告學系\n<br>2017.9-",
+          "title5": "Contact information",
+          "caption5": "dfgh9361@gmail.com \n<br>Line id:79256912 \n<br>IG:e.cˍleau.0226",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "media6": {
             "image": {
@@ -657,8 +657,8 @@
               "size": 0
             }
           },
-          "title6": "Skill",
-          "caption6": "dreamweaver\n<br>Photoshop\n<br>premeier\n<br>Illustrator\n<br><br>Another skills:\n<br>•文案能力\n<br>• 創意策略發想\n<br>• 活動企劃\n<br>• 思辨能力",
+          "title6": "",
+          "caption6": "",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
           "_name": "content4",
           "_anchor": "content4-x",
@@ -1099,7 +1099,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-mg-6812-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1109,8 +1109,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-1464-2000x1615.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-1462-2000x1615.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -1167,7 +1167,7 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "52",
+            "imageSize": "38",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": true,
@@ -1188,7 +1188,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-20180123-230827-884-720x808.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6608-1400x788.jpeg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1433,7 +1433,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "凝結的永遠",
-          "text": "<p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;從興趣喜歡跟朋友去拍拍網美照，到買了第台相機開始了攝影路，希望自己在以後能有個屬於自己的作品，擁有一個團隊，拍攝動態、平面的攝影都想多多嘗試，用相機，去記錄我的生活，失去文字後的我，老天並沒有放棄我，反而又開了一扇窗，讓我又多了一個管套去告訴大家，我眼中的世界，在這個世界我想當個第三者，去記錄這些，美好的瞬間，去凝結永遠。</p><p><br></p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;從興趣喜歡跟朋友去拍拍網美照，到買了第一台相機開始了攝影路，希望自己在以後能有個屬於自己的作品，擁有一個團隊，拍攝動態、平面的攝影都想多多嘗試，用相機，去記錄我的生活，失去文字後的我，老天並沒有放棄我，反而又開了一扇窗，讓我又多了一個方式去告訴大家，我眼中的世界，在這個世界我想當個第三者，去記錄這些，美好的瞬間，去凝結永遠。</p><p><br></p><p><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "主题"
@@ -1860,16 +1860,16 @@
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1272x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1272x1920-800x1208.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-2s0s75-1400x2100.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-2s0s75-1400x2100-800x1025.jpeg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1472x1920.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mbr-1472x1920-800x1043.jpg",
+                "image": "@PROJECT_PATH@/assets/images/51927901-2246705628916766-3665818221371457536-n-960x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51927901-2246705628916766-3665818221371457536-n-960x960-800x800.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -2051,7 +2051,7 @@
         },
         {
           "_params": {
-            "showText": true,
+            "showText": false,
             "outside": false,
             "bgColor": "#252525"
           },
@@ -2096,6 +2096,14 @@
           ],
           "_name": "content1",
           "_anchor": "content1-23"
+        },
+        {
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://drive.google.com/open?id=1DH4x5FJW5jHHoCi6xb2WMfRfQ7AV6MTO\" data-toolbar=\"-mbrBtnMove\">預告片</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/open?id=1I2Rs2wo7oksn7fumjFhLF-Zpvl-ShRnx\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD&nbsp;</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1z"
         },
         {
           "_styles": {},
@@ -2162,7 +2170,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "re.",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;我常常覺得無以回報什麼，只能拿出近我們所能最好的作品呈現給大家。一路上受到了很多人的幫忙，就連演員都因為以前是廣電系的還現場教我們這群新手菜鳥怎麼收音。我們一路懵懵懂懂，一路跌跌撞撞，嘗試去勾勒出那個年代最符合小青、云琛的樣貌，嘗試去還原那個年代所有的擺設背景，反覆考究在考究、查證再查證，只是為了更加還原當年。\n</p><p>&nbsp; 我不僅心疼我們的組員這麼努力還要被他人非議，還被潑了一身髒水，只是想為作品付出難道錯了嗎?有許多人都是第一次拍片，或許不了解許多知識，幾乎也是第一次拿上這些器材，一步一步的走過來，也是慢慢在進步，從陌生到熟悉，從熟悉到習慣，每天出機拍片到深夜，熬了無數的夜、修了無數次劇本，往返學校討論開會，反覆重畫一次又一次的分鏡；為了器材道具，到處奔波求人。雖然這群小菜雞第一次拍片、雖然作品可能無法跟許多外面的影片相比，但這部作品已經在我心裡獲得最高榮耀。 \n</p><p>&nbsp; 希望藉由這個故事可以讓大家反思，因為至今仍有無數的小青云琛相繼被犧牲，我們的社會還在進步，接受的人還很少，希望未來我們的社會能不要再有這種故事的出現。\n</p><p>&nbsp;最後最後，感謝他們，感謝我們組員，只為我一時任性，完成了這個藏在心中很久的故事。</p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;我常常覺得無以回報什麼，只能拿出近我們所能最好的作品呈現給大家。一路上受到了很多人的幫忙，就連演員都因為以前是廣電系的還現場教我們這群新手菜鳥怎麼收音。我們一路懵懵懂懂，一路跌跌撞撞，嘗試去勾勒出那個年代最符合小青、云琛的樣貌，嘗試去還原那個年代所有的擺設背景，反覆考究在考究、查證再查證，只是為了更加還原當年。\n</p><p>&nbsp; 我們許多人都是第一次拍片，或許不了解許多知識，幾乎也是第一次拿上這些器材，一步一步的走過來，也是慢慢在進步，從陌生到熟悉，從熟悉到習慣，每天出機拍片到深夜，熬了無數的夜、修了無數次劇本，往返學校討論開會，反覆重畫一次又一次的分鏡；為了器材道具，到處奔波求人。雖然這群小菜雞第一次拍片、雖然作品可能無法跟許多外面的影片相比，但這部作品已經在我心裡獲得最高榮耀。 \n</p><p>&nbsp; 希望藉由這個故事可以讓大家反思，因為至今仍有無數的小青云琛相繼被犧牲，我們的社會還在進步，接受的人還很少，希望未來我們的社會能不要再有這種故事的出現。\n</p><p>&nbsp;最後最後，感謝他們，感謝我們組員，只為我一時任性，完成了這個藏在心中很久的故事。</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "主题"
