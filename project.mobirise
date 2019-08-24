@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "amber's world",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -2128,54 +2128,6 @@
           "_anchor": "dropdown-menu-1i"
         },
         {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff",
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dtp-4057-2000x2996.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
-          },
-          "title": "瘋狂過後是沉寂",
-          "text": "<p>這些人活在自己的世界裡，他們高高在上不管世事，他們是哲學家。</p><p>擁有Filory最聰明的腦袋，住在最有錢的金字塔頂端。他們不與人交流，住在高處窺探人的隱私，卻沒人了解他們。除了瘋子，是他們唯一每周會訪談的對象。</p><p>這些 住在雲端上的人們每天會撒下寫滿字的白紙，密密麻麻寫著</p><p>\"真正瘋狂的人是這個世界，而不是自己。\"</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>哲學家的Article</a>",
-          "_tags": [
-            "主题"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "_name": "content5",
-          "_anchor": "content5-22"
-        },
-        {
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "4",
@@ -2560,6 +2512,54 @@
           ],
           "_name": "form2",
           "_anchor": "form2-22"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dtp-4057-2000x2996.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "瘋狂過後是沉寂",
+          "text": "<p>這些人活在自己的世界裡，他們高高在上不管世事，他們是哲學家。</p><p>擁有Filory最聰明的腦袋，住在最有錢的金字塔頂端。他們不與人交流，住在高處窺探人的隱私，卻沒人了解他們。除了瘋子，是他們唯一每周會訪談的對象。</p><p>這些 住在雲端上的人們每天會撒下寫滿字的白紙，密密麻麻寫著</p><p>\"真正瘋狂的人是這個世界，而不是自己。\"</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>哲學家的Article</a>",
+          "_tags": [
+            "主题"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-22"
         }
       ]
     },
@@ -2944,7 +2944,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dtp-3938-2000x1335.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -2955,7 +2955,7 @@
             "darkBackground": true,
             "overlay": true,
             "overlayColor": "#28324e",
-            "overlayOpacity": 0.2
+            "overlayOpacity": "0.4"
           },
           "title": "我是Amber，Filory的創世神",
           "text": "<p>那些大中華思想，總是強制灌輸在我們的腦袋上每一道皺褶，\r</p><p>好像三面紅旗時期每個人都要塗上一層鮮豔刺目的大紅，用的是教\r</p><p>條上明目張膽的白底黑字，一點一滴的滲入我們眼皮底下。</p><p>直到死亡，我們瘋狂將會永遠繼續。</p>",

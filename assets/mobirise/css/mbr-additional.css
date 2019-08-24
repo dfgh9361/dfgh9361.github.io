@@ -312,18 +312,6 @@
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
 }
-#content5-22 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-22 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-22 .mbr-article {
-  color: #fff;
-  text-align: center;
-}
 #content5-23 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -352,6 +340,18 @@
 }
 #msg-box4-1x .mbr-article {
   color: #ffffff;
+}
+#content5-22 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-article {
+  color: #fff;
+  text-align: center;
 }
 
 
