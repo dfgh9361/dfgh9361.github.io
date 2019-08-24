@@ -188,6 +188,20 @@
 #content5-22 .mbr-article P {
   text-align: center;
 }
+#content5-21 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-21 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-21 .mbr-article {
+  color: #fff;
+}
+#content5-21 .mbr-article P {
+  text-align: center;
+}
 
 
 #msg-box4-q .mbr-header__text {
@@ -256,6 +270,18 @@
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
 }
+#content5-20 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-20 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-20 .mbr-article {
+  color: #fff;
+  text-align: center;
+}
 
 
 #dropdown-menu-1i .hide-buttons [data-button] {
@@ -285,6 +311,18 @@
 #dropdown-menu-1i A {
   font-size: 18px;
   font-family: 'Open Sans', sans-serif;
+}
+#content5-22 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-article {
+  color: #fff;
+  text-align: center;
 }
 #content5-23 .mbr-header .mbr-header__text {
   text-align: center;
@@ -359,4 +397,18 @@
 }
 #content5-1w .mbr-article {
   color: #fff;
+}
+#content5-23 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-23 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-23 .mbr-article {
+  color: #fff;
+}
+#content5-23 .mbr-article P {
+  text-align: center;
 }
