@@ -487,7 +487,7 @@
           },
           "title": "About Amber",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"mailto:dfgh9361@gmail.com\" data-toolbar=\"-mbrBtnMove\">Send a E-mail</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"assets/files/陳郁方 履歷表.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>RESUME</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"mailto:dfgh9361@gmail.com\" data-toolbar=\"-mbrBtnMove\">Send a E-mail</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://drive.google.com/open?id=1BZy9AFL-vY5jm3mTKQcJnQFkJTHTPH0-\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>RESUME</a> ",
           "_tags": [
             "主题"
           ],
