@@ -1,25 +1,25 @@
 {
   "settings": {
     "name": "amber's world",
-    "currentPage": "page1.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
+        "#066321",
+        "#006c1f",
+        "#ecd2ac",
+        "#236837",
         "#b9a0ce",
         "#1a2c5d",
-        "#192852",
-        "#222f52",
-        "#072169",
-        "#473f53",
-        "#272f45"
+        "#192852"
       ]
     },
     "path": "@PROJECT_PATH@",
     "siteFonts": [],
     "versionFirst": "4.7.7",
-    "uniqCompNum": 76,
+    "uniqCompNum": 105,
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/16pic-2096340-b-128x103.png",
@@ -76,7 +76,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -87,7 +87,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -116,7 +116,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE MAGICIANS",
-          "text": "Magic comes from plains. &nbsp;<br><br><b><i>WELCOME TO FILORY</i></b>",
+          "text": "Magic come from plains. &nbsp;<br><br><b><i>WELCOME TO FILORY</i></b>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://www.instagram.com/e.c_leau.0226/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">contact me</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">about me</a>",
           "_tags": [
             "主题"
@@ -383,7 +383,7 @@
       "settings": {
         "meta_descr": "Web Page Generator Description",
         "title": "About us",
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -426,7 +426,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -437,7 +437,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -836,7 +836,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -847,7 +847,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -1465,7 +1465,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": true,
+            "showButton": false,
             "paddingTop": "4",
             "paddingBottom": "3",
             "bgImageRadio": true,
@@ -1750,26 +1750,26 @@
           "_params": {
             "token": "6191179828.727bfe1.e6b3b495981a4be4823ccf641a842926",
             "showTitle": true,
-            "layoutGridRadio": false,
+            "layoutGridRadio": true,
             "imagesPerRowGrid": "3",
-            "rows": "3",
+            "rows": "2",
             "showMoreButton": true,
-            "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": "4",
-            "fullWidth": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgColorRadio": false,
-            "bgColor": "#fafafa",
-            "bgImageRadio": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": "8",
+            "spacing": "2",
+            "fullWidth": false,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgColorRadio": true,
+            "bgColor": "#b9a0ce",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2669-2000x1333.jpg",
             "overlay": true,
             "overlayColor": "#1a2c5d",
             "overlayOpacity": "0.3"
           },
           "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"2273366006938476724_6191179828\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
           "display2": "display-2",
           "display4": "display-4",
           "alias": "instagram-feed",
@@ -1974,7 +1974,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1985,7 +1985,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -2109,7 +2109,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2120,7 +2120,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -2475,7 +2475,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.youtube.com/channel/UCiR46Fi75SbTVcPFMsHzF7w\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1x"
         },
@@ -2567,7 +2567,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "article",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -2641,7 +2641,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2652,7 +2652,7 @@
               "link": "https://mobirise.com"
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M o r i p o s a</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
           "_tags": [
             "主题"
           ],
@@ -2940,7 +2940,7 @@
             "showMeta": false,
             "showCaption": "noCaption",
             "showText": true,
-            "showButton": false,
+            "showButton": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
@@ -2959,13 +2959,998 @@
           },
           "title": "我是Amber，Filory的創世神",
           "text": "<p>那些大中華思想，總是強制灌輸在我們的腦袋上每一道皺褶，\r</p><p>好像三面紅旗時期每個人都要塗上一層鮮豔刺目的大紅，用的是教\r</p><p>條上明目張膽的白底黑字，一點一滴的滲入我們眼皮底下。</p><p>直到死亡，我們瘋狂將會永遠繼續。</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page7.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-right mbr-iconfont mbr-iconfont-btn\"></span>Project</a> ",
           "_tags": [
             "主题"
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-23"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Site Creator Description",
+        "title": "project",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-1280x720.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<div></div>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"https://drive.google.com/open?id=1LsVc43tPDZQbO0W0FlE7AaRsz5C423Eo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">完整企畫書</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-26",
+          "_styles": {
+            "H1": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "color": "#e25041",
+              "text-align": "center"
+            },
+            "P": {
+              "color": "#faaf40",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": false,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "行銷環境分析",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "images/bootstrap.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "一、食安風暴人心惶惶，消費者對波蜜成分安心\n<div><br></div>",
+          "caption1": "&nbsp; &nbsp; &nbsp; &nbsp;繼2011年塑化劑風暴到2013年毒澱粉，台灣近幾年來頻頻爆出食安問題，民眾對於自己吃下口中的食物添加物更加感到害怕。\n<br>       波蜜蔬果汁相關原料來源皆符合國家標準及食品衛生規範，老品牌給消費者承諾，使消費者安心飲用。&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "images/responsive.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "二、社會結構改變與國民所得增加 形成外食文化\n<div><br></div>",
+          "caption2": "&nbsp; &nbsp; &nbsp; &nbsp;據調查台灣年齡在25歲至35歲之間上班族平均每週外食「1-6次」（35.8%）為最高，其次為「7-15次」（29.3%），而「皆不外食」的受訪者僅佔（6.0%），顯示上班族普遍外食比例高，外食族比例高達九成以上。\n<br>       針對選擇外食時會考量的因素，以「價格」（78.1%）為受訪者最重視的問題，其次為「味道」（48.9%），可見健康和方便性已非首要之選，價格方面為首要之道。&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "市場分析",
+          "caption3": "1.全球蔬果汁市場穩步成長<br>2.台灣民眾重視飲食營養議題\n<br>&nbsp;3.台灣即飲市場呈現負成長，蔬果汁卻逐年增高&nbsp;<br>4.全民瘋手搖，嚴重擠壓包裝飲品生存空間&nbsp;<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "市場洞察",
+          "caption4": "1.雖然人們重視飲食健康，但卻不會把蔬果汁列為首選&nbsp;<br>2.市面上競爭者過多，消費者容易被花枝招展的手搖、即飲茶類、奶類\n吸引，在選擇飲品上，較少會與健康利益做聯想。\n<br>3.食安問題使目標族群選擇飲品時更傾向相信老品牌承諾\n<br>4.外食趨勢在目標族群選擇飲品更傾向「方便快速」&nbsp;<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-27",
+          "_styles": {
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#41a85f"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#faaf40"
+            },
+            "P": {
+              "color": "#006c1f"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "18px"
+            },
+            ".nav .link, .dropdown-item": {
+              "font-size": "1.2em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#333333"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#292929"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            "A": {
+              "font-size": "18px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#333333",
+            "fontSize": "1.2",
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\" aria-expanded=\"false\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\" aria-expanded=\"false\">Design</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Painting<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\" aria-expanded=\"false\">Video<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page6.html\" aria-expanded=\"false\">Article<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page7.html\" aria-expanded=\"false\">Project<br><br></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"page1.html\">about me</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">M a r i p o s a</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-24"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1268.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#41a85f",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "消費者洞察",
+          "text": "<p><b>1. 飲食習慣、社會環境變遷,消費者開始重視「三高年輕化」等健康議題議題。</b></p><p><b>2. 千禧世代的影響，休閒活動價值及消費者習慣改變，休閒的三大價值為療癒修復、生活重構、探索創造。</b></p><p><b>3.「健康」新型態觀念出現，年輕人追求健康是為增添生活的豐富度及享受當下的生活體驗。</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "主题"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-28"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "5",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#4c6972",
+            "overlayOpacity": 0.5
+          },
+          "header": "行銷傳播策略",
+          "items": [
+            {
+              "authorName": "企劃目標",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">1.讓波蜜成為目標消費者的Top Of Mind</p><p class=\"mbr-reviews__p\"> \n</p><p class=\"mbr-reviews__p\">2.讓目標消費者記得波蜜提供8種蔬果，\n</p><p class=\"mbr-reviews__p\">促成身心靈均衡\u000b\n</p><p class=\"mbr-reviews__p\">3. 讓消費者建立起與波蜜的情感連結</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">4.讓消費者主動參與品牌活動、購買\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "傳播主張\n<div><br></div>",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">全民健康潮，波蜜給你正能量!\n</p><p class=\"mbr-reviews__p\">主張緣由:身心靈都均衡一下吧 \n</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">從情境分析發現，目標消費者有在關注健康議題，但因為對品牌印象老化因此不會購買波蜜。另外，也發現到消費者因為社會節奏快速，造成心理壓力，嚴重可能造成身心失衡。我們塑造波蜜成為消費者的照顧者，提供現代於心理的關懷及生理的健康。搭著對重拾身心靈健康的熱潮，帶起品牌，成為飲品中的TOP OF MIND! \n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "創意核心:",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp;Rational core:\u000b8種蔬果\u000b均衡一下 \n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;+motional wrapping :波蜜最懂你</p><p class=\"mbr-reviews__p\">____________________________________________</p><p class=\"mbr-reviews__p\">= #去你的文明病</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "目標對象",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">目標對象:\n</p><p class=\"mbr-reviews__p\">獨自在外生活、離鄉背井的青年:\n</p><p class=\"mbr-reviews__p\">20-29歲 /飲食偏好:方便、外食、重口味、便宜 / 營養不足、不均衡 / 高壓生活 / 用餐時間短 / 健康議題設涉入程度:中-高度 / 每個月可自由支配金額:8000-1.5萬元\n</p><p class=\"mbr-reviews__p\">\u000b\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "品牌定位",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">對20-29歲的年輕族群來說，波蜜是即時飲品裡唯一能一次攝取8種蔬果，達到均衡飲食的健康飲品。\n</p><p class=\"mbr-reviews__p\">根據奧美葉明桂先生所提出的桂氏模型分析\u000bAＡ產品定位：對20-29歲年輕人 我是健康即飲飲料 給你 8種人體每日所需</p><p class=\"mbr-reviews__p\">Ｂ市場定位：對外食族 我是補充營養 均衡體質 給你 最直接最方便最實惠的均衡力</p><p class=\"mbr-reviews__p\">C.傳播定位：對 文明病青年 我是 陪伴者 照顧者 給你 真實溫暖的鼓勵</p>"
+            }
+          ],
+          "_tags": [
+            "主题"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-2a",
+          "testimonial": [
+            {
+              "authorName": "企劃目標",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">1.讓波蜜成為目標消費者的Top Of Mind</p><p class=\"mbr-reviews__p\"> \n</p><p class=\"mbr-reviews__p\">2.讓目標消費者記得波蜜提供8種蔬果，\n</p><p class=\"mbr-reviews__p\">促成身心靈均衡\u000b\n</p><p class=\"mbr-reviews__p\">3. 讓消費者建立起與波蜜的情感連結</p><p class=\"mbr-reviews__p\">\n</p><p class=\"mbr-reviews__p\">4.讓消費者主動參與品牌活動、購買\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "傳播主張\n<div><br></div>",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">全民健康潮，波蜜給你正能量!\n</p><p class=\"mbr-reviews__p\">主張緣由:身心靈都均衡一下吧 \n</p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\">從情境分析發現，目標消費者有在關注健康議題，但因為對品牌印象老化因此不會購買波蜜。另外，也發現到消費者因為社會節奏快速，造成心理壓力，嚴重可能造成身心失衡。我們塑造波蜜成為消費者的照顧者，提供現代於心理的關懷及生理的健康。搭著對重拾身心靈健康的熱潮，帶起品牌，成為飲品中的TOP OF MIND! \n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "創意核心:",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">&nbsp; &nbsp; &nbsp;Rational core:\u000b8種蔬果\u000b均衡一下 \n</p><p class=\"mbr-reviews__p\">&nbsp; &nbsp;+motional wrapping :波蜜最懂你</p><p class=\"mbr-reviews__p\">____________________________________________</p><p class=\"mbr-reviews__p\">= #去你的文明病</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "目標對象",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">目標對象:\n</p><p class=\"mbr-reviews__p\">獨自在外生活、離鄉背井的青年:\n</p><p class=\"mbr-reviews__p\">20-29歲 /飲食偏好:方便、外食、重口味、便宜 / 營養不足、不均衡 / 高壓生活 / 用餐時間短 / 健康議題設涉入程度:中-高度 / 每個月可自由支配金額:8000-1.5萬元\n</p><p class=\"mbr-reviews__p\">\u000b\n</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "品牌定位",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">對20-29歲的年輕族群來說，波蜜是即時飲品裡唯一能一次攝取8種蔬果，達到均衡飲食的健康飲品。\n</p><p class=\"mbr-reviews__p\">根據奧美葉明桂先生所提出的桂氏模型分析\u000bAＡ產品定位：對20-29歲年輕人 我是健康即飲飲料 給你 8種人體每日所需</p><p class=\"mbr-reviews__p\">Ｂ市場定位：對外食族 我是補充營養 均衡體質 給你 最直接最方便最實惠的均衡力</p><p class=\"mbr-reviews__p\">C.傳播定位：對 文明病青年 我是 陪伴者 照顧者 給你 真實溫暖的鼓勵</p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__author-name": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-section__header": {
+              "color": "#066321"
+            },
+            ".mbr-reviews__text": {
+              "color": "#e69724"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-6577ccccc-1452x832.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#272f45",
+            "overlayOpacity": "0.9"
+          },
+          "text": "Copyright (c) 2015 Company Name. <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://mobirise.com/\">Privacy Policy</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-25"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "溝通策略",
+          "meta": "",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2c",
+          "_styles": {
+            "H3": {
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
+          "text": "<p>訊息策略：\u000b理性的訊息核心(rational core)+感性包裝(emotional wrapping):\n</p><p>波蜜給你身心均衡是我們的理性訊息核心。我們將透過一連串的實體活動及系列廣告，替他抒發心聲，引起年輕人心中的共鳴，讓他們愛上波蜜。</p><p>活動策略：</p><p>建立認知\n</p><p>1. 家外廣告(車廂廣告):提高波蜜在目標消費者的心占率\n</p><p>強化認知\n</p><p>1. 憂愁點波機:讓消費者建立起與波蜜的情感連結\n</p><p>2. 關鍵字:藉由投放及購買關鍵字，讓消費者快速找到相關活動\n</p><p>3. 電視廣告(+平面廣告):提高目標消費者對品牌認知度 \n</p><p>加強連結\n</p><p>1. 音樂創作比賽:提升目標族群品牌參與感\n</p><p>2. 社群行銷:提高目標消費者對品牌參與度及提高波蜜在目標消費者的心占\n</p><p>FB粉絲專頁：「這一波蜜（me）帶的，頂出你最特別的蔬果」\n</p><p>Youtube:：與百萬Youtuber how how（陳孜昊）合作波蜜果菜汁的業配影片&nbsp;</p><p>3. 路跑活動:提高目標消費者對品牌參與度\n</p><p><br></p>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2d",
+          "_styles": {
+            "DIV": {
+              "color": "#006c1f"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-1400x722.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<b>媒體策略：利用科特勒提出的「行銷5A架構」分析</b>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2b"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/11-652x354.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "行銷方案",
+          "text": "<p>廣告活動–系列廣告</p><p>&nbsp; &nbsp; &nbsp; &nbsp;我們設計了三支三十秒的系列廣告，主要溝通是希望消費者對波蜜使用情境的轉變及動機產生共鳴，利用三十秒清楚簡單描述目標族群可能會遇到的困境或是小煩惱，加上符合目標族群心中對社會或是人生提出的疑問，進而讓年輕人選擇喝波蜜平衡一下心中的鬱悶吧!\n</p><p>１）經典波蜜(夜店跑趴篇)</p><p> \n</p><p>\n</p><p>２）βCE 波蜜(電影院篇)\n</p><p>３）低卡波蜜(居酒屋篇)</p>",
+          "_tags": [
+            "主题"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://drive.google.com/open?id=1BGtKzZQr0WQBK2SbQq7GxTWS9dSXCBOZ\" data-toolbar=\"-mbrBtnMove\">腳本與示意圖<br></a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2e"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "#捷運車廂創意廣告 – 去你的新時代 別忘了我還在\n<div><br></div>",
+          "meta": "",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2f",
+          "_styles": {
+            "H3": {
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
+          "text": "<p>活動目的：\n</p><p>利用捷運車廂廣告與「文明病」的概念作扣連，希望民眾在搭乘捷運時，注意到相關病痛字樣，例如：失眠、肥胖，並意識到自己有相關的問題，進而關心自己的健康問題，也同時重新喚起民眾對波蜜的記憶。\n</p><p>活動概要：\n</p><p>我們計畫在「捷運板南線」實行為期兩個月的捷運車廂創意廣告，內容包括車廂車窗海報廣告＋QR Code 小遊戲、車廂地板廣告、手把廣告，並同時發新聞稿– ETtoday新聞雲增加活動曝光度。</p><p>\n</p><p>\u000b\n</p>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2g",
+          "_styles": {
+            "DIV": {
+              "color": "#236837"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ssss-780x601.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2h"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "#憂愁點波機 – 去你的小毛病 給我振作起來",
+          "text": "<p><b>活動目的：</b></p><p><b>從情境分析中，我們得知千禧世代的消費者，因環境變化太快，而有了失眠、憂鬱等「文明病」，所以我們想打造一台憂愁點波機，希望藉由經典歌詞，拉近跟消費者心的距離，讓波蜜不只是均衡飲食，也能成為年輕人的知己，並藉由消費者的社群影響力，使年輕的消費者透過網路平台的分享更認識波蜜。</b></p><p><b><br></b></p><p><b>活動概要：</b></p><p><b>我們會以飲料販賣機的形式呈現憂愁點波機，消費者投錢（20元）按下自己的憂愁歌詞後，機器會開始撥放按鈕上歌詞的音樂，播完10秒鐘的音樂後，波蜜 「給我振作起來」的牛皮紙盒（內容物包含貼紙、一瓶波蜜）就會掉到出口。\n</b></p><p>\n</p><p><b>預計在108年7～8月，將憂愁點波機架設在市政府、勤美、駁二等，遊客、學生及上班族較多的地方，藉此吸引我們的客群。</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "主题"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2l"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/1e04-713x567.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2k"
+        },
+        {
+          "_params": {
+            "showHeader": true,
+            "showSubheader": false,
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": true,
+            "showButtons": false,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "columns": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-1920x1280.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fac51c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "header": "社群行銷",
+          "subheader": "By John Smith posted July 30, 2015",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/-225x225.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "FB 粉絲專頁",
+          "caption1": "活動內容\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 貼文內容：用頭頂出最特別的蔬果，在留言處貼上認證照，分享貼文，同時並#hashtag\n<br>#這一波蜜（me）帶的。每週點讚數最高的照片將成為波蜜臉書的封面人物。&nbsp;<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/youtube-for-android-tv-256x180.png",
+              "class": "mbr-figure__img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Youtuber業配合作\n",
+          "caption2": "活動內容\n<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;與百萬Youtuber how ow（陳孜昊）合作波蜜果菜汁的業配影片，how how影片風格與波蜜形象符合–陽光、真實。並搭配粉絲喜愛的無俚頭表現方式延續how how的業配風格。我們希望能像影片〈手機戰鬥陀螺大激鬥〉的呈現方式，以故事的方式吸引民眾的好奇心，並在影片中詳細說明波蜜果菜汁的特色，激起民眾的購買欲望。&nbsp;<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "images/google-fonts.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "WEB FONTS",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "images/unlimited-websites.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "UNLIMITED WEBSITES",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media5": {
+            "image": {
+              "active": true,
+              "src": "images/blocks.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title5": "TRENDY WEBSITE BLOCKS",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "media6": {
+            "image": {
+              "active": true,
+              "src": "images/host.png",
+              "class": "mbr-figure__img",
+              "width": 600
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title6": "HOST ANYWHERE",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-2n",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "color": "#1a2c5d"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#28324e"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "媒體排期\n",
+          "meta": "時間：108年5月～10月&nbsp;<br>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2p",
+          "_styles": {
+            "H3": {
+              "color": "#236837"
+            },
+            "P": {
+              "color": "#faaf40"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/16-483x550.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2o"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#236837",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "其他專題分析",
+          "text": "小組與個人",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"https://drive.google.com/open?id=1Mjs9I2vxRyurnoAO_9V4bPOVaF_zo58G\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-paperclip mbr-iconfont mbr-iconfont-btn\"></span>雲端連結</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-github mbr-iconfont mbr-iconfont-btn\"></span>About me</a> ",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-2w"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-130x130.jpg",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<b>組員</b>",
+          "text2": "<b>公廣二乙</b>",
+          "text3": "<p class=\"mbr-contacts__text\"><b>陳郁方</b></p><p class=\"mbr-contacts__text\"><b>伍采軒</b></p><p class=\"mbr-contacts__text\"><b>陳品儒</b></p><p class=\"mbr-contacts__text\"><b>陳薏</b></p><p class=\"mbr-contacts__text\"><b>吳沛芸</b></p><p class=\"mbr-contacts__text\"><b>李姝諳</b></p><p class=\"mbr-contacts__text\"><br></p>",
+          "_tags": [
+            "主题"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2s"
         }
       ]
     }
