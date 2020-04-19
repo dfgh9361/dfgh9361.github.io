@@ -7,13 +7,13 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
+        "#aa78d2",
         "#066321",
         "#006c1f",
         "#ecd2ac",
         "#236837",
         "#b9a0ce",
-        "#1a2c5d",
-        "#192852"
+        "#1a2c5d"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -42,8 +42,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -60,9 +60,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -116,7 +116,7 @@
             "overlayOpacity": 0.5
           },
           "title": "THE MAGICIANS",
-          "text": "Magic come from plains. &nbsp;<br><br><b><i>WELCOME TO FILORY</i></b>",
+          "text": "Magic come from plains. &nbsp;<br><br><i>WELCOME TO FILORY</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-primary\" href=\"https://www.instagram.com/e.c_leau.0226/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">contact me</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">about me</a>",
           "_tags": [
             "主题"
@@ -126,10 +126,14 @@
           "_anchor": "header4-3",
           "_styles": {
             "H1": {
-              "color": "#d1cbc8"
+              "color": "#d1cbc8",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             "P": {
-              "color": "#d1cbc8"
+              "color": "#d1cbc8",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             "B": {
               "font-family": "'Indie Flower', cursive",
@@ -211,7 +215,9 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -222,8 +228,8 @@
             },
             ".mbr-article P": {
               "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -311,7 +317,9 @@
           ],
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             ".mbr-header__subtext": {
               "color": "#ffffff"
@@ -355,7 +363,18 @@
           ],
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_name": "header2",
-          "_anchor": "header2-1g"
+          "_anchor": "header2-1g",
+          "_styles": {
+            "H1": {
+              "text-align": "left",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            },
+            ".btn": {
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
+            }
+          }
         },
         {
           "_params": {
@@ -392,8 +411,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -410,9 +429,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -496,15 +515,17 @@
           "_styles": {
             "H1": {
               "text-align": "left",
-              "color": "#b9a0ce"
+              "color": "#b9a0ce",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             },
             "P": {
               "text-align": "right",
               "color": "#7b9ca6"
             },
             ".btn": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
               "font-size": "15px"
             }
           }
@@ -664,7 +685,18 @@
           "_anchor": "content4-x",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#475577"
+            },
+            ".mbr-section-title .mbr-header__text": {
+              "color": "#aa78d2",
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700"
+            },
+            ".mbr-section__col .mbr-header__text": {
+              "font-family": "'Roboto Slab', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700",
+              "color": "#b9a0ce"
             }
           }
         },
@@ -673,7 +705,9 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'Merriweather', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "center",
@@ -709,7 +743,7 @@
             "overlayOpacity": "0.4"
           },
           "title": "Thanks For Watching",
-          "text": "<p>感謝觀看</p><p>#此網為我本人的作品集\r</p><p>#以上網站絕大部分照片都是我本人所拍，或是被拍\r</p><p>#感謝所有一起創作的小夥伴</p>",
+          "text": "<p>感謝觀看</p><p>#此網為我本人的作品集\n</p><p>#以上網站絕大部分照片都是我本人所拍，或是被拍\n</p><p>#感謝所有一起創作的小夥伴</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "主题"
@@ -802,8 +836,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -820,9 +854,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -1940,8 +1974,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -1958,9 +1992,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -2075,8 +2109,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -2093,9 +2127,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -2607,8 +2641,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -2625,9 +2659,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {
@@ -3191,8 +3225,8 @@
               "display": "none !important"
             },
             ".navbar-brand a": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
               "font-size": "18px"
             },
             ".nav .link, .dropdown-item": {
@@ -3209,9 +3243,9 @@
               "color": "#ffffff"
             },
             "A": {
-              "font-size": "18px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+              "font-size": "17px",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i"
             }
           },
           "_params": {

@@ -1,8 +1,17 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Bitter:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
+
+
+
+
+
 
 
 
@@ -12,7 +21,7 @@
   display: none !important;
 }
 #dropdown-menu-2 .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-2 .nav .link,
@@ -33,14 +42,16 @@
   color: #ffffff;
 }
 #dropdown-menu-2 A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #header4-3 H1 {
   color: #d1cbc8;
+  font-family: 'PT Serif', serif;
 }
 #header4-3 P {
   color: #d1cbc8;
+  font-family: 'PT Serif', serif;
 }
 #header4-3 B {
   font-family: 'Indie Flower', cursive;
@@ -62,6 +73,7 @@
 #content5-9 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-family: 'PT Serif', serif;
 }
 #content5-9 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -72,10 +84,11 @@
 }
 #content5-9 .mbr-article P {
   font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
 }
 #msg-box4-1h .mbr-header__text {
   color: #ffffff;
+  font-family: 'PT Serif', serif;
 }
 #msg-box4-1h .mbr-header__subtext {
   color: #ffffff;
@@ -83,6 +96,17 @@
 #msg-box4-1h .mbr-article {
   color: #ffffff;
 }
+#header2-1g H1 {
+  text-align: left;
+  font-family: 'PT Serif', serif;
+}
+#header2-1g .btn {
+  font-family: 'PT Serif', serif;
+}
+
+
+
+
 
 
 
@@ -90,7 +114,7 @@
   display: none !important;
 }
 #dropdown-menu-e .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-e .nav .link,
@@ -111,27 +135,38 @@
   color: #ffffff;
 }
 #dropdown-menu-e A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #header1-v H1 {
   text-align: left;
   color: #b9a0ce;
+  font-family: 'PT Serif', serif;
 }
 #header1-v P {
   text-align: right;
   color: #7b9ca6;
 }
 #header1-v .btn {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Bitter', serif;
   font-size: 15px;
 }
 #content4-x P {
   text-align: left;
+  color: #475577;
+}
+#content4-x .mbr-section-title .mbr-header__text {
+  color: #aa78d2;
+  font-family: 'Roboto Slab', serif;
+}
+#content4-x .mbr-section__col .mbr-header__text {
+  font-family: 'Roboto Slab', serif;
+  color: #b9a0ce;
 }
 #content5-1w .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
+  font-family: 'Merriweather', serif;
 }
 #content5-1w .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -152,7 +187,7 @@
   display: none !important;
 }
 #dropdown-menu-g .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-g .nav .link,
@@ -173,8 +208,8 @@
   color: #ffffff;
 }
 #dropdown-menu-g A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #content5-22 .mbr-header .mbr-header__text {
   text-align: center;
@@ -248,7 +283,7 @@
   display: none !important;
 }
 #dropdown-menu-k .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-k .nav .link,
@@ -269,8 +304,8 @@
   color: #ffffff;
 }
 #dropdown-menu-k A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #content5-20 .mbr-header .mbr-header__text {
   text-align: center;
@@ -290,7 +325,7 @@
   display: none !important;
 }
 #dropdown-menu-1i .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-1i .nav .link,
@@ -311,8 +346,8 @@
   color: #ffffff;
 }
 #dropdown-menu-1i A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #content5-23 .mbr-header .mbr-header__text {
   text-align: center;
@@ -361,7 +396,7 @@
   display: none !important;
 }
 #dropdown-menu-1k .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-1k .nav .link,
@@ -382,8 +417,8 @@
   color: #ffffff;
 }
 #dropdown-menu-1k A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #features1-1z P {
   text-align: center;
@@ -441,7 +476,7 @@
   display: none !important;
 }
 #dropdown-menu-24 .navbar-brand a {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'PT Serif', serif;
   font-size: 18px;
 }
 #dropdown-menu-24 .nav .link,
@@ -462,8 +497,8 @@
   color: #ffffff;
 }
 #dropdown-menu-24 A {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-family: 'PT Serif', serif;
 }
 #content5-28 .mbr-header .mbr-header__text {
   text-align: center;
